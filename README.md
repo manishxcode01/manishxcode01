@@ -1,10 +1,13 @@
-# Hi 👋, I'm Manish Kumar Yadav
+# Hi 👋, I'm Manish Kumar
 
 <p align="center">
-  <img src="[assets/github-banner.png](https://drive.google.com/file/d/16mGAkPFjfYRG-k7lnShSV-vbhnvhdl9f/view?usp=drive_link)" alt="Manish Kumar Yadav - GitHub Banner" width="100%" />
+  <img
+    src="profile.jpg.png"
+    alt="Manish Kumar"
+    width="1000"
+    style="border-radius: 50%;"
+  />
 </p>
-
-
 <h3 align="center">🎓 B.Tech CSE (AI & ML) Student | Aspiring Software Engineer</h3>
 
 <p align="center">
@@ -14,7 +17,7 @@
 <p align="center">
   <a href="https://github.com/manishxcode01">GitHub</a> •
   <a href="https://www.linkedin.com/in/manish-kumar-42188a28a/">LinkedIn</a> •
-  <a href="https://www.instagram.com/hey_manish____/">Instagram</a> •
+  <a href="https://www.instagram.com/hey_manish________/?hl=en">Instagram</a> •
   <a href="https://www.youtube.com/@Manishxcode01">YouTube</a> •
   <a href="mailto:manishxcode121@gmail.com">Email</a>
 </p>
@@ -74,9 +77,9 @@ I'm exploring Amazon Web Services and cloud technologies to understand how appli
   <a href="mailto:manishxcode121@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-<a href="https://www.instagram.com/hey_manish________/?hl=en">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
+  <a href="https://www.instagram.com/hey_manish________/?hl=en">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
   <a href="https://www.youtube.com/@Manishxcode01">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
