@@ -4,9 +4,6 @@
   <img src="assets/github-banner.png" alt="Manish Kumar Yadav - GitHub Banner" width="100%" />
 </p>
 
-<p align="center">
-  <img src="assets/profile.png" alt="Manish Kumar Yadav" width="150" />
-</p>
 
 <h3 align="center">🎓 B.Tech CSE (AI & ML) Student | Aspiring Software Engineer</h3>
 
