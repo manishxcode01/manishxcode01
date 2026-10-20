@@ -1,58 +1,55 @@
-# Hi 👋, I'm Manish Kumar Yadav
+# 👋 Hi, I'm Manish Kumar Yadav
 
-### 🚀 B.Tech CSE | Aspiring Software Engineer | DSA & C++ | AWS & AI/ML Enthusiast
+<p align="center">
+  <img src="YOUR_PROFILE_PHOTO_URL" width="150" alt="Manish Kumar Yadav" />
+</p>
 
-Welcome to my GitHub profile! I'm a Computer Science student passionate about building projects, learning new technologies, and solving real-world problems through code.
+<h3 align="center">💻 B.Tech CSE Student | Aspiring Software Engineer</h3>
+
+<p align="center">
+  Passionate about programming, problem-solving, and building my skills in software development.
+  <br/>
+  🌱 Currently learning Data Structures & Algorithms in C++.
+</p>
+
+---
 
 ## 👨‍💻 About Me
 
-* 🎓 B.Tech Computer Science Engineering student
-* 💻 Currently learning **Data Structures & Algorithms with C++**
-* 🌐 Completed **Frontend Development** *☁️ Exploring **AWS & Cloud Technologies**
-* 🤖 Exploring **Artificial Intelligence & Machine Learning**
-* 🚀 Building real-world projects and participating in hackathons
-* 🎯 Goal: Become a skilled **Software Engineer**
+- 🎓 B.Tech Computer Science Engineering student
+- 💻 Learning **Data Structures & Algorithms using C++**
+- 🚀 Practicing programming and problem-solving
+- 🌱 Improving my development skills through hands-on projects
 
-## 🛠️ Technologies & Tools
+## 🛠️ Programming Languages & Tech Stack
 
-### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css" alt="C, C++, Python, HTML and CSS" />
+</p>
 
-* C++
-* Python
-* JavaScript
-* HTML
-* CSS
+- **Programming Languages:** C, C++, Python
+- **Web Technologies:** HTML, CSS
+- **Currently Learning:** Data Structures & Algorithms in C++
 
-### 🌐 Web Development
+## 📫 Contact Me
 
-* React.js
-* Responsive Web Design
-* Frontend Development
-* Git & GitHub
+<p>
+  <a href="https://github.com/manishxcode01">
+    <img src="https://img.shields.io/badge/GitHub-Manishxcode01-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:YOUR_EMAIL_ADDRESS">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="YOUR_INSTAGRAM_URL">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
-### ☁️ Cloud & DevOps
+---
 
-* AWS
-* Docker
-* Exploring Cloud & DevOps Technologies
-
-### 🤖 AI & Machine Learning
-
-* Artificial Intelligence
-* Machine Learning
-* Python for AI/ML
-
-## 📚 What I'm Currently Exploring
-
-🧠 DSA & Problem Solving with C++
-☁️ AWS & Cloud Technologies
-🤖 Artificial Intelligence & Machine Learning
-🚀 Building Real-World Projects
-
-## 🎯 My Goal
-
-> Learn consistently. Build meaningful projects. Solve real-world problems.
-> Keep improving every day. 🚀
-
-
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+<p align="center">
+  ✨ <i>Keep learning, keep building, and keep growing!</i> 🚀
+</p>
