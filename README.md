@@ -1,7 +1,7 @@
 # Hi 👋, I'm Manish Kumar Yadav
 
 <p align="center">
-  <img src="assets/github-banner.png" alt="Manish Kumar Yadav - GitHub Banner" width="100%" />
+  <img src="[assets/github-banner.png](https://drive.google.com/file/d/16mGAkPFjfYRG-k7lnShSV-vbhnvhdl9f/view?usp=drive_link)" alt="Manish Kumar Yadav - GitHub Banner" width="100%" />
 </p>
 
 
